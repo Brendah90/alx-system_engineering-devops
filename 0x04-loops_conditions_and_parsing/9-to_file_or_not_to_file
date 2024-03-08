@@ -1,4 +1,5 @@
-ys information about the school file.
+#!/usr/bin/env bash
+# displays information about the school file.
 
 FILE="school"
 
